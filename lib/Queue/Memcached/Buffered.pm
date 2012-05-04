@@ -240,7 +240,7 @@ The memcached queue server returns a valid JSON string but it's not a JSON array
 
 =back
 
-=head1 AUTHOR
+
 
 Agent Zhang (agentzh) C<< <agentzh@yahoo.cn> >>
 
